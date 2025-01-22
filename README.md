@@ -1,3 +1,8 @@
+# Rozwiązanie zadania nr 1 z sesji zimowej 2025 w kwalifikacji INF04 - aplikacja webowa
+Rozwiązanie nie jest idealne. 
+Ma prezentować najprostrze metody kodowania jakie można zastosować w czasie 180 minut egzaminu zawodowego.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
